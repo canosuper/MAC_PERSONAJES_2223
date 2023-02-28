@@ -16,6 +16,7 @@ public class Personaje {
     de los personajes.    
     */ 
     final static byte MAX_FUERZA=100;
+    //añado comentario despues de maxfuerza
     final static byte MAX_INTELIGENCIA=100;
     final static byte MAX_VIDA=100;
     final static byte MIN_FUERZA=0;
