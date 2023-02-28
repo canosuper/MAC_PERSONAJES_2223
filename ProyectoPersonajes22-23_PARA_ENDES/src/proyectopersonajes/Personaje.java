@@ -22,8 +22,10 @@ public class Personaje {
     final static byte MIN_INTELIGENCIA=0;
     final static byte MIN_VIDA=0;
 
-    //variable estática qeu se irá incrementando con la creación de cada personaje.
+    //variable estática qeu se irá incrementando con la creación de cada personaje.    
     public static short numeroPersonajes;
+    
+    //SÓLO AÑADO ESTE COMENTARIO PARA PROBAR REPOSITORIOS.
 
     //nombre,vida, inteligencia y fuerza del personaje
     private String nombre;
