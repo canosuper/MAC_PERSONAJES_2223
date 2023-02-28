@@ -13,6 +13,7 @@ import proyectopersonajes.Personaje;
  *
  * @author antonio
  */
+//añado comentario en lanzador
 public class LanzadorPersonaje {
 
     /**
